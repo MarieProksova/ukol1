@@ -1,2 +1,2 @@
-import "./BMI";
+import "./ukol2";
 
