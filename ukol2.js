@@ -7,5 +7,5 @@ if (vek < 18) {
   console.log ("Vaše jméno je" + jmeno + ", je Vám " + vek + "let a tak musíte ještě "+ vysledek + " let počkat, než budete moci řídit auto.");
 }
   else {
-    console.log("Vaše jméno je " + jmeno + ", je Vám " + vek + " let a tak máte právo řídit auto")
+    console.log("Vaše jméno je " + jmeno + ", je Vám " + vek + " let a tak máte právo řídit auto.")
   };
